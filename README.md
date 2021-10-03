@@ -31,17 +31,24 @@ A curated collection of resources intended to help prepare for the frontend deve
 #### General
 - [Frontend Interview Handbook](https://frontendinterviewhandbook.com/)
 - [Grab Front End Guide - GitHub](https://github.com/grab/front-end-guide)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
 #### HTML
+- [HTML Interview Questions](https://www.interviewbit.com/html-interview-questions/)
 #### CSS
+- [CSS Interview Questions](https://www.interviewbit.com/css-interview-questions/)
 #### JavaScript
+- [JavaScript Interview Questions](https://www.interviewbit.com/javascript-interview-questions/)
+- [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 #### React
 - [21 Essential React.js Interview Questions](https://www.toptal.com/react/interview-questions)
+- [React Interview Questions](https://www.interviewbit.com/react-interview-questions/)
 #### Data Structures and Algorithms
 - [Basecs (Basics of Computer Science)](https://medium.com/basecs/tagged/data-structures)
 - [Interviews (Guide to Technical Interviews)](https://github.com/kdn251/interviews)
 - [Sorting Algorithms Animated](https://www.toptal.com/developers/sorting-algorithms)
 - [VisuAlgo - Visualizing Data Structures and Algorithms through Animations](https://visualgo.net/en)
+- [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions#javascript)
 ---
 
 ### Motivation, Media, and Misc
