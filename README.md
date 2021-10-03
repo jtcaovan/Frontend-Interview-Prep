@@ -12,7 +12,8 @@ A curated collection of resources intended to help prepare for the frontend deve
   - HTML
   - CSS
   - JavaScript
-  - React 
+  - React
+- Behavioral
 - Motivation, Media, and Misc
   - Github Repos 
   - Podcasts 
@@ -50,7 +51,8 @@ A curated collection of resources intended to help prepare for the frontend deve
 - [VisuAlgo - Visualizing Data Structures and Algorithms through Animations](https://visualgo.net/en)
 - [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions#javascript)
 ---
-
+### Behavioral Interview Prep
+- [Grokking The Behavioral Interview](https://www.educative.io/courses/grokking-the-behavioral-interview)
 ### Motivation, Media, and Misc
 
 #### Github Repos
