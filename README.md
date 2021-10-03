@@ -20,6 +20,7 @@ A curated collection of resources intended to help prepare for the frontend deve
 ### Preparing For the Job Search
 #### Guides
 - [Getting Hired - The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired)
+- [Getting a Gig](https://github.com/cassidoo/getting-a-gig)
 
 #### Articles
 - [How to get a job as a web developer](http://web.archive.org/web/20160925155912/http://www.happybearsoftware.com/how-to-get-a-programmer-job.html)
@@ -39,6 +40,8 @@ A curated collection of resources intended to help prepare for the frontend deve
 #### Data Structures and Algorithms
 - [Basecs (Basics of Computer Science)](https://medium.com/basecs/tagged/data-structures)
 - [Interviews (Guide to Technical Interviews)](https://github.com/kdn251/interviews)
+- [Sorting Algorithms Animated](https://www.toptal.com/developers/sorting-algorithms)
+- [VisuAlgo - Visualizing Data Structures and Algorithms through Animations](https://visualgo.net/en)
 ---
 
 ### Motivation, Media, and Misc
