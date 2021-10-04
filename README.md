@@ -43,7 +43,9 @@ A curated collection of resources intended to help prepare for the frontend deve
 - [CSS Interview Questions](https://www.interviewbit.com/css-interview-questions/)
 #### JavaScript
 - [JavaScript Interview Questions](https://www.interviewbit.com/javascript-interview-questions/)
+- [Modern JS Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet#introduction)
 - [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+- [Superhero.js](http://superherojs.com/)
 #### React
 - [21 Essential React.js Interview Questions](https://www.toptal.com/react/interview-questions)
 - [React Interview Questions](https://www.interviewbit.com/react-interview-questions/)
