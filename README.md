@@ -55,6 +55,7 @@ A curated collection of resources intended to help prepare for the frontend deve
 - [Sorting Algorithms Animated](https://www.toptal.com/developers/sorting-algorithms)
 - [VisuAlgo - Visualizing Data Structures and Algorithms through Animations](https://visualgo.net/en)
 - [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions#javascript)
+- [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms#toc)
 ---
 ### Behavioral Interview Prep
 - [Grokking The Behavioral Interview](https://www.educative.io/courses/grokking-the-behavioral-interview)
