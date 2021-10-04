@@ -22,6 +22,7 @@ A curated collection of resources intended to help prepare for the frontend deve
 #### Guides
 - [Getting Hired - The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired)
 - [Getting a Gig](https://github.com/cassidoo/getting-a-gig)
+- [Building an Effective Dev Portfolio](https://storage.googleapis.com/joshwcomeau/building-an-effective-dev-portfolio.pdf)
 
 #### Articles
 - [How to get a job as a web developer](http://web.archive.org/web/20160925155912/http://www.happybearsoftware.com/how-to-get-a-programmer-job.html)
@@ -33,6 +34,8 @@ A curated collection of resources intended to help prepare for the frontend deve
 - [Frontend Interview Handbook](https://frontendinterviewhandbook.com/)
 - [Grab Front End Guide - GitHub](https://github.com/grab/front-end-guide)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [Developer Handbook](https://github.com/apptension/developer-handbook)
+  - [Junior Frontend Onboarding](https://github.com/apptension/developer-handbook/blob/master/Onboarding/Junior/Frontend%20Developer.md) 
 
 #### HTML
 - [HTML Interview Questions](https://www.interviewbit.com/html-interview-questions/)
