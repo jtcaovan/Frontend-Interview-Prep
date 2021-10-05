@@ -69,8 +69,8 @@ A curated collection of resources intended to help prepare for the frontend deve
 ### Behavioral Interview Prep <span name='behavioral'></span>
 - [Grokking The Behavioral Interview](https://www.educative.io/courses/grokking-the-behavioral-interview)
 
-<!-- ### Motivation, Media, and Misc -->
-
+### Motivation, Media, and Misc
+- [Dev.to]https://dev.to/
 <!-- #### Github Repos
  -->
 #### Podcasts <span name='podcasts'></span>
