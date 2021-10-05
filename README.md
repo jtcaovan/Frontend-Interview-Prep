@@ -35,7 +35,8 @@ A curated collection of resources intended to help prepare for the frontend deve
 - [Grab Front End Guide - GitHub](https://github.com/grab/front-end-guide)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 - [Developer Handbook](https://github.com/apptension/developer-handbook)
-  - [Junior Frontend Onboarding](https://github.com/apptension/developer-handbook/blob/master/Onboarding/Junior/Frontend%20Developer.md) 
+  - [Junior Frontend Onboarding](https://github.com/apptension/developer-handbook/blob/master/Onboarding/Junior/Frontend%20Developer.md)
+- [Every Single Interview Question I was Asked While Changing my Job](https://www.reddit.com/r/webdev/comments/o9jp8e/every_single_interview_question_i_was_asked_while/)
 
 #### HTML
 - [HTML Interview Questions](https://www.interviewbit.com/html-interview-questions/)
@@ -45,6 +46,7 @@ A curated collection of resources intended to help prepare for the frontend deve
 - [JavaScript Interview Questions](https://www.interviewbit.com/javascript-interview-questions/)
 - [Modern JS Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet#introduction)
 - [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [Superhero.js](http://superherojs.com/)
 #### React
 - [21 Essential React.js Interview Questions](https://www.toptal.com/react/interview-questions)
@@ -59,10 +61,12 @@ A curated collection of resources intended to help prepare for the frontend deve
 ---
 ### Behavioral Interview Prep
 - [Grokking The Behavioral Interview](https://www.educative.io/courses/grokking-the-behavioral-interview)
-### Motivation, Media, and Misc
 
-#### Github Repos
+### Job Boards 
+<!-- ### Motivation, Media, and Misc -->
 
+<!-- #### Github Repos
+ -->
 #### Podcasts
 - [The Scrimba Podcast](https://open.spotify.com/show/1oJamVudy2v3oSJTejUyus)
 - [CodeNewbie](https://www.codenewbie.org/podcast)
