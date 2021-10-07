@@ -42,22 +42,24 @@ A curated collection of resources intended to help prepare for the frontend deve
 
 #### HTML <span name='HTML'></span>
 - [HTML Interview Questions](https://www.interviewbit.com/html-interview-questions/)
-- 
+
 #### CSS <span name='CSS'></span>
 - [CSS Interview Questions](https://www.interviewbit.com/css-interview-questions/)
-- 
+
 #### JavaScript <span name='JS'></span>
 - [JavaScript Interview Questions](https://www.interviewbit.com/javascript-interview-questions/)
+- [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
 - [Modern JS Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet#introduction)
 - [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 - [JavaScript Code Challenges](https://github.com/sadanandpai/javascript-code-challenges)
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [Superhero.js](http://superherojs.com/)
-- 
+- [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+
 #### React <span name='react'></span> 
 - [21 Essential React.js Interview Questions](https://www.toptal.com/react/interview-questions)
 - [React Interview Questions](https://www.interviewbit.com/react-interview-questions/)
-- 
+
 #### Data Structures and Algorithms <span name='DSA'></span>
 - [Basecs (Basics of Computer Science)](https://medium.com/basecs/tagged/data-structures)
 - [Interviews (Guide to Technical Interviews)](https://github.com/kdn251/interviews)
@@ -65,6 +67,9 @@ A curated collection of resources intended to help prepare for the frontend deve
 - [VisuAlgo - Visualizing Data Structures and Algorithms through Animations](https://visualgo.net/en)
 - [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions#javascript)
 - [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms#toc)
+- [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
+
+
 ---
 ### Behavioral Interview Prep <span name='behavioral'></span>
 - [Grokking The Behavioral Interview](https://www.educative.io/courses/grokking-the-behavioral-interview)
