@@ -9,8 +9,7 @@ A curated collection of resources intended to help prepare for the frontend deve
   - [Articles](#articles)
   - [Job Boards](#job-boards)
 - [Technical Interview Prep](#interview-prep)
-  - [HTML](#HTML)
-  - [CSS](#CSS)
+  - [HTML & CSS](#HTML)
   - [JavaScript](#JS)
   - [React](#react)
 - [Behavioral](#behavioral)
@@ -40,10 +39,10 @@ A curated collection of resources intended to help prepare for the frontend deve
   - [Junior Frontend Onboarding](https://github.com/apptension/developer-handbook/blob/master/Onboarding/Junior/Frontend%20Developer.md)
 - [Every Single Interview Question I was Asked While Changing my Job](https://www.reddit.com/r/webdev/comments/o9jp8e/every_single_interview_question_i_was_asked_while/)
 
-#### HTML <span name='HTML'></span>
+#### HTML & CSS <span name='HTML'></span>
 - [HTML Interview Questions](https://www.interviewbit.com/html-interview-questions/)
-
-#### CSS <span name='CSS'></span>
+- [HTML & CSS Is Hard](https://www.internetingishard.com/html-and-css/)
+- [MarkSheet.io - HTML and CSS tutorial](https://marksheet.io/)
 - [CSS Interview Questions](https://www.interviewbit.com/css-interview-questions/)
 
 #### JavaScript <span name='JS'></span>
