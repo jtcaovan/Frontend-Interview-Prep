@@ -29,6 +29,13 @@ A curated collection of resources intended to help prepare for the frontend deve
 - [How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
 
 #### Job Boards <span name='job-boards'></span>
+- [LinkedIn](https://www.linkedin.com/)
+- [We Work Remotely](https://weworkremotely.com/)
+- [Angel List](https://angel.co/)
+- [Arc.dev](https://arc.dev)
+- [Vizajobs](https://vizajobs.com)
+- [Remotive.io](https://remotive.io/)
+- [Pangian](https://pangian.com/)
 ---
 ### Technical Interview Prep <span name='interview-prep'></span>
 #### General <span name='general'></span>
