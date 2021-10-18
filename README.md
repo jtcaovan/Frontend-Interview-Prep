@@ -34,6 +34,7 @@ A curated collection of resources intended to help prepare for the frontend deve
 - [Angel List](https://angel.co/)
 - [Arc.dev](https://arc.dev)
 - [Vizajobs](https://vizajobs.com)
+- [Work at a Startup](https://www.workatastartup.com/)
 - [Remotive.io](https://remotive.io/)
 - [Pangian](https://pangian.com/)
 ---
