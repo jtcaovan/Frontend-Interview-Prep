@@ -1,7 +1,7 @@
 # Frontend Interview Prep
 
 ## About
-A curated collection of resources intended to help prepare for the frontend developer interview. 
+A curated collection of resources I've found helpful while preparing for the Frontend technical interviews.  
 
 ## Table of Contents
 - [Preparing For the Job Search](#job-search)
@@ -59,9 +59,12 @@ A curated collection of resources intended to help prepare for the frontend deve
 - [Modern JS Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet#introduction)
 - [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 - [JavaScript Code Challenges](https://github.com/sadanandpai/javascript-code-challenges)
-- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [Superhero.js](http://superherojs.com/)
 - [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+##### Books
+- [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
+- [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+- [Eloquent JavaScript](https://eloquentjavascript.net/)
 
 #### React <span name='react'></span> 
 - [21 Essential React.js Interview Questions](https://www.toptal.com/react/interview-questions)
