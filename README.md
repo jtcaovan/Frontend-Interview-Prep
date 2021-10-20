@@ -76,7 +76,7 @@ A curated collection of resources I've found helpful while preparing for the Fro
 - [Sorting Algorithms Animated](https://www.toptal.com/developers/sorting-algorithms)
 - [VisuAlgo - Visualizing Data Structures and Algorithms through Animations](https://visualgo.net/en)
 - [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions#javascript)
-- [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms#toc)
+- [Grokking Algorithms](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf)
 - [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
 
 
