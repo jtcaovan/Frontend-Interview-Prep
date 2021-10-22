@@ -78,7 +78,7 @@ A curated collection of resources I've found helpful while preparing for the Fro
 - [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions#javascript)
 - [Grokking Algorithms](https://edu.anarcho-copy.org/Algorithm/grokking-algorithms-illustrated-programmers-curious.pdf)
 - [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
-
+- [Brilliant.org Sorting Algorithms](https://brilliant.org/wiki/sorting-algorithms/)
 
 ---
 ### Behavioral Interview Prep <span name='behavioral'></span>
