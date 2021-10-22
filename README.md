@@ -13,8 +13,8 @@ A curated collection of resources I've found helpful while preparing for the Fro
   - [JavaScript](#JS)
   - [React](#react)
 - [Behavioral](#behavioral)
-- Motivation, Media, and Misc
-  - Github Repos 
+<!-- - Motivation, Media, and Misc
+  - Github Repos  -->
   - [Podcasts](#podcasts) 
 ---
 ### Preparing For the Job Search <span name='job-search'></span>
