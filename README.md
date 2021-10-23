@@ -39,9 +39,13 @@ A curated collection of resources I've found helpful while preparing for the Fro
 - [Pangian](https://pangian.com/)
 - [Smashing Magzine](https://jobs.smashingmagazine.com/jobs/)
 - [StackOverflow](https://stackoverflow.com/jobs)
+- [RemoteOk](https://remoteok.io/)
+- [Who Is Hiring](https://whoishiring.io/)
+- [Flex Jobs](https://www.flexjobs.com/)
 ---
 ### Technical Interview Prep <span name='interview-prep'></span>
 #### General <span name='general'></span>
+- [30 Seconds of Interviews](https://30secondsofinterviews.org/)
 - [Frontend Interview Handbook](https://frontendinterviewhandbook.com/)
 - [Grab Front End Guide - GitHub](https://github.com/grab/front-end-guide)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
@@ -63,6 +67,8 @@ A curated collection of resources I've found helpful while preparing for the Fro
 - [JavaScript Code Challenges](https://github.com/sadanandpai/javascript-code-challenges)
 - [Superhero.js](http://superherojs.com/)
 - [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+- 
+
 ##### Books
 - [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
