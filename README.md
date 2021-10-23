@@ -37,6 +37,8 @@ A curated collection of resources I've found helpful while preparing for the Fro
 - [Work at a Startup](https://www.workatastartup.com/)
 - [Remotive.io](https://remotive.io/)
 - [Pangian](https://pangian.com/)
+- [Smashing Magzine](https://jobs.smashingmagazine.com/jobs/)
+- [StackOverflow](https://stackoverflow.com/jobs)
 ---
 ### Technical Interview Prep <span name='interview-prep'></span>
 #### General <span name='general'></span>
