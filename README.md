@@ -56,8 +56,10 @@ A curated collection of resources I've found helpful while preparing for the Fro
 #### HTML & CSS <span name='HTML'></span>
 - [HTML Interview Questions](https://www.interviewbit.com/html-interview-questions/)
 - [HTML & CSS Is Hard](https://www.internetingishard.com/html-and-css/)
+- [HTML Reference](https://htmlreference.io/)
 - [MarkSheet.io - HTML and CSS tutorial](https://marksheet.io/)
 - [CSS Interview Questions](https://www.interviewbit.com/css-interview-questions/)
+- [CSS Reference](https://cssreference.io/)
 
 #### JavaScript <span name='JS'></span>
 - [JavaScript Interview Questions](https://www.interviewbit.com/javascript-interview-questions/)
@@ -99,3 +101,5 @@ A curated collection of resources I've found helpful while preparing for the Fro
 #### Podcasts <span name='podcasts'></span>
 - [The Scrimba Podcast](https://open.spotify.com/show/1oJamVudy2v3oSJTejUyus)
 - [CodeNewbie](https://www.codenewbie.org/podcast)
+- [Shop Talk](https://shoptalkshow.com/)
+- [Syntax](https://syntax.fm/)
