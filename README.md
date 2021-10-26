@@ -69,7 +69,7 @@ A curated collection of resources I've found helpful while preparing for the Fro
 - [JavaScript Code Challenges](https://github.com/sadanandpai/javascript-code-challenges)
 - [Superhero.js](http://superherojs.com/)
 - [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
-- 
+- [Awesome JavaScript Interviews](https://github.com/rohan-paul/Awesome-JavaScript-Interviews)
 
 ##### Books
 - [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
