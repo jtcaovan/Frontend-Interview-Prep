@@ -27,6 +27,7 @@ A curated collection of resources I've found helpful while preparing for the Fro
 - [How to get a job as a web developer](http://web.archive.org/web/20160925155912/http://www.happybearsoftware.com/how-to-get-a-programmer-job.html)
 - [Lessons From a Silicon Valley Job Search](https://robertheaton.com/2014/03/07/lessons-from-a-silicon-valley-job-search/)
 - [How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews](https://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
+- [How I got 7 Job Offers in 8 Weeks](https://medium.com/@moriahfaye/how-i-got-7-job-offers-in-8-weeks-part-1-please-interview-me-21e6f4ded106)
 
 #### Job Boards <span name='job-boards'></span>
 - [LinkedIn](https://www.linkedin.com/)
