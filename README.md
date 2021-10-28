@@ -82,6 +82,7 @@ A curated collection of resources I've found helpful while preparing for the Fro
 - [21 Essential React.js Interview Questions](https://www.toptal.com/react/interview-questions)
 - [React Interview Questions - InterviewBit](https://www.interviewbit.com/react-interview-questions/)
 - [React Interview Questions - Github Repo](https://github.com/sudheerj/reactjs-interview-questions)
+- [Awesome React](https://github.com/enaqx/awesome-react)
 
 #### Data Structures and Algorithms <span name='DSA'></span>
 - [Basecs (Basics of Computer Science)](https://medium.com/basecs/tagged/data-structures)
