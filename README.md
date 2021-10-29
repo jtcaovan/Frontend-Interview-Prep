@@ -35,14 +35,17 @@ A curated collection of resources I've found helpful while preparing for the Fro
 - [Angel List](https://angel.co/)
 - [Arc.dev](https://arc.dev)
 - [Vizajobs](https://vizajobs.com)
+- [Dice](https://www.dice.com/jobs)
 - [Work at a Startup](https://www.workatastartup.com/)
 - [Remotive.io](https://remotive.io/)
+- [JrDevJobs](https://www.jrdevjobs.com/)
 - [Pangian](https://pangian.com/)
 - [Smashing Magzine](https://jobs.smashingmagazine.com/jobs/)
 - [StackOverflow](https://stackoverflow.com/jobs)
 - [RemoteOk](https://remoteok.io/)
 - [Who Is Hiring](https://whoishiring.io/)
 - [Flex Jobs](https://www.flexjobs.com/)
+- [Remoters](https://remoters.net/jobs/)
 ---
 ### Technical Interview Prep <span name='interview-prep'></span>
 #### General <span name='general'></span>
