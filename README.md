@@ -67,8 +67,9 @@ A curated collection of resources I've found helpful while preparing for the Fro
 - [CSS Reference](https://cssreference.io/)
 
 #### JavaScript <span name='JS'></span>
-- [JavaScript Interview Questions](https://www.interviewbit.com/javascript-interview-questions/)
+- [JavaScript Interview Questions - InterviewBit](https://www.interviewbit.com/javascript-interview-questions/)
 - [JavaScript Questions](https://github.com/lydiahallie/javascript-questions)
+- [JavaScript Interview Questions](https://github.com/sudheerj/javascript-interview-questions)
 - [Modern JS Cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet#introduction)
 - [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 - [JavaScript Code Challenges](https://github.com/sadanandpai/javascript-code-challenges)
