@@ -46,6 +46,8 @@ A curated collection of resources I've found helpful while preparing for the Fro
 - [Who Is Hiring](https://whoishiring.io/)
 - [Flex Jobs](https://www.flexjobs.com/)
 - [Remoters](https://remoters.net/jobs/)
+- [JS Remotely](http://jsremotely.com)
+- [JavaScript Job XYZ](http://javascriptjob.xyz)
 ---
 ### Technical Interview Prep <span name='interview-prep'></span>
 #### General <span name='general'></span>
