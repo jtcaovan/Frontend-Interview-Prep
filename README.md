@@ -60,6 +60,7 @@ A curated collection of resources I've found helpful while preparing for the Fro
 - [Developer Handbook](https://github.com/apptension/developer-handbook)
   - [Junior Frontend Onboarding](https://github.com/apptension/developer-handbook/blob/master/Onboarding/Junior/Frontend%20Developer.md)
 - [Mega Interview Guide](https://danieldelcore.github.io/mega-interview-guide/)
+- [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [Every Single Interview Question I was Asked While Changing my Job](https://www.reddit.com/r/webdev/comments/o9jp8e/every_single_interview_question_i_was_asked_while/)
 
 #### HTML & CSS <span name='HTML'></span>
@@ -80,6 +81,7 @@ A curated collection of resources I've found helpful while preparing for the Fro
 - [Superhero.js](http://superherojs.com/)
 - [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 - [Awesome JavaScript Interviews](https://github.com/rohan-paul/Awesome-JavaScript-Interviews)
+- [javascript.info](https://javascript.info/)
 
 ##### Books
 - [JavaScript Allongé](https://leanpub.com/javascriptallongesix/read)
