@@ -22,6 +22,7 @@ A curated collection of resources I've found helpful while preparing for the Fro
 - [Getting Hired - The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired)
 - [Getting a Gig](https://github.com/cassidoo/getting-a-gig)
 - [Building an Effective Dev Portfolio](https://storage.googleapis.com/joshwcomeau/building-an-effective-dev-portfolio.pdf)
+- [10 Rules For Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 
 #### Articles <span name='articles'></span>
 - [How to get a job as a web developer](http://web.archive.org/web/20160925155912/http://www.happybearsoftware.com/how-to-get-a-programmer-job.html)
