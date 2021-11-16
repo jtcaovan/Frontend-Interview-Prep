@@ -89,7 +89,8 @@ A curated collection of resources I've found helpful while preparing for the Fro
 - [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [Eloquent JavaScript](https://eloquentjavascript.net/)
 
-#### React <span name='react'></span> 
+#### React <span name='react'></span>
+- [Official React Documentation](https://reactjs.org/docs/getting-started.html)
 - [21 Essential React.js Interview Questions](https://www.toptal.com/react/interview-questions)
 - [React Interview Questions - InterviewBit](https://www.interviewbit.com/react-interview-questions/)
 - [React Interview Questions - Github Repo](https://github.com/sudheerj/reactjs-interview-questions)
