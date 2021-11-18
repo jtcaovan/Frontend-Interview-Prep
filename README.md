@@ -43,6 +43,7 @@ A curated collection of resources I've found helpful while preparing for the Fro
 - [Pangian](https://pangian.com/)
 - [Smashing Magzine](https://jobs.smashingmagazine.com/jobs/)
 - [StackOverflow](https://stackoverflow.com/jobs)
+- [BuiltIn](https://builtin.com/jobs)
 - [RemoteOk](https://remoteok.io/)
 - [Who Is Hiring](https://whoishiring.io/)
 - [Flex Jobs](https://www.flexjobs.com/)
